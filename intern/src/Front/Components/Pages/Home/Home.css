@@ -1,0 +1,146 @@
+
+.btn{
+    padding-left: 150px;
+    padding-top: 10px;
+}
+
+.learnmore{
+
+    background-color:#091e3f ;
+    margin :50px 70px 60px 100px;
+    padding: 12px 100px  ;
+    color: #3e9ede;
+    border: 1px solid #3e9ede;
+    border-radius: 50px;
+
+}
+
+/*<img className="img" 
+          src={require("../../../../Assets/images/RH.jpg")}
+          style={{
+            width: "800px",
+            float: "right",
+            transform: "skewY(15deg)",
+            borderRadius: "45%",
+            paddingTop: "8%",
+          }}
+        ></img>*/
+
+.home{
+   /* background-color: #f5f4f5;*/
+    background-image: url("../../../../Assets/images/ash2.png") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 690px;
+}
+
+.section2title{
+    font-family: 'Lora', serif;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    padding-top: 40px;
+    font-size: 50px;
+    text-align: center;
+    text-transform: capitalize;
+    font-weight: bold;
+    letter-spacing: 3px;
+
+}
+
+.section2parag{
+    font-family: 'Lora', serif;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    text-align: center;
+    text-transform: capitalize;
+    
+
+}
+
+.homesection2{
+
+    background-color: white;
+    /*max-height: 450px;*/
+    padding-bottom: 20px;
+    background-image:url("../../../../Assets/images/backgroundhomesection2.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+
+
+.stepper{
+    margin-top: 80px;
+    margin-bottom: 50px;
+}
+
+.hometitle{
+    font-family: 'Lora', serif;
+    margin-left: 100px;
+    margin-top: 0px;
+    padding-bottom: 10px;
+    padding-top: 100px;
+    font-size: 95px;
+    text-transform: capitalize;
+    font-weight: bold;
+    letter-spacing: 3px;
+}
+
+.homesubtitle{
+    font-family: 'Lora', serif;
+    margin-left: 30px;
+    padding-left: 70px;
+    padding-bottom: 10px;
+    padding-top: 20px;
+    font-size: 40px;
+    text-transform: capitalize;
+    font-weight: bold;
+    letter-spacing: 3px;
+    color: #9fceef;
+
+}
+/*
+ fontSize: "20px",
+            fontFamily: "sans-serif",
+            textAlign: "justify-all",
+            marginLeft:"50px",
+            textAlignLast:"justify-all",
+            wordSpacing:"2px",
+            paddingBottom:"10px",
+            color:"#F5F4F5",
+          }}>
+*/
+.homeparag{
+
+    font-family: 'Lora', serif;
+    margin-left: 40px;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-top: 10px;
+    font-size: 20px;
+    text-transform: capitalize;
+    text-align: "justify-all";
+    text-align-last: center;
+    word-spacing:"2px";
+    /*letter-spacing: 3px;*/
+    border: transparent solid 1px;
+    width: 900px;
+
+}
+
+@media screen and (max-width: 700px) {
+   .image{
+    
+   margin-left: 700px;
+   margin-right: 500px;
+   }
+   .img1{
+    width: 50px;
+   }
+
+   
+}

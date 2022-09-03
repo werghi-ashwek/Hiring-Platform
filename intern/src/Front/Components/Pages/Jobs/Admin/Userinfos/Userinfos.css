@@ -1,0 +1,49 @@
+
+
+
+.cellinfos {
+    display: flex;
+    flex-direction: column;
+}
+
+.cellinfos li {
+    list-style-type: circle;
+    justify-content: space-between;
+    margin: 5px;
+    padding: 5px;
+
+}
+
+.user-table-container {
+   
+
+    width: 1100px !important;
+    margin: 40px 40px 30px 30px !important;
+    box-shadow: rgb(245 244 245) 5px 10px !important;
+}
+
+
+
+.dashboard2 {
+    box-shadow: 3px 2px 1px 1px #9fceef;
+    border: solid #9fceef 1px;
+    border-radius: 15px;
+    background-color: white;
+    text-align: center;
+    justify-content: center;
+    margin-top: 120px;
+    margin-inline-start: 150px;
+    margin-inline-end: 150px;
+
+}
+
+.applicants-title {
+
+    font-family: 'Lora', serif;
+    font-size: 50px;
+    padding-top: 10px;
+    text-align: center;
+    text-transform: capitalize;
+    font-weight: bold;
+
+}

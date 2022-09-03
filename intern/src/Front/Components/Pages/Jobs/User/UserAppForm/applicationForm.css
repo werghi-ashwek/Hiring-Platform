@@ -1,0 +1,111 @@
+.btn-save{
+    width: 100px !important;
+	height: 40px !important;
+    margin-right: 50px !important;
+    margin-bottom: 50px !important;
+    margin-left: 680px !important;
+	cursor: pointer !important;
+	font-size: 15px !important;
+	/*font-weight: bold !important;*/
+	color: #3e9ede!important;
+	background: white !important;
+	border: 1px solid #3e9ede !important;
+	box-shadow: 5px 5px 0 #3e9ede !important,
+		-5px -5px 0 black !important,
+		-5px 5px 0 black !important,
+		5px -5px 0 black !important;
+	transition: 500ms ease-in-out !important;
+}
+
+.btn-save:hover {
+	box-shadow: 20px 5px 0 #091e3f, -20px -5px 0 #091e3f !important;
+}
+
+.btn-save:focus {
+	outline: none !important;
+}
+
+/*title  h1 style*/
+.appform{
+    text-align: center;
+    color:#091e3f;
+    margin-top: 80px;
+    margin-bottom: 50px;
+}
+/*h4 style */
+.titleappform{
+   text-align: left;
+}
+
+/*parag styling*/
+.parag{
+    border: 3px solid #091e3f;
+    border-radius: 13px;
+    width: 700px;
+    text-align: center;
+    height: 360px;
+    margin-left: 400px;
+    background-color:#f5f4f5 ;
+}
+
+.contact{
+    text-align: left;
+}
+
+.second{
+    border: 3px solid #091e3f;
+    border-radius: 13px;
+    width: 700px;
+    text-align: center;
+    /*height: 570px;*/
+    margin-left: 400px;
+    background-color:#f5f4f5 ;
+    margin-bottom: 10px;
+}
+
+.third{
+    border: 3px solid #091e3f;
+    border-radius: 13px;
+    width: 700px;
+    text-align: center;
+    /*height: 460px;*/
+    margin-left: 400px;
+    background-color:#f5f4f5 ;
+    margin-bottom: 10px;
+}
+
+.fifth{
+    border: 3px solid #091e3f;
+    border-radius: 13px;
+    width: 700px;
+    text-align: center;
+    margin-left: 400px;
+    background-color:#f5f4f5 ;
+    margin-bottom: 10px;
+    
+
+}
+
+.forth{
+    border: 3px solid #091e3f;
+    border-radius: 13px;
+    width: 700px;
+    text-align: center;
+    height: 300px;
+    margin-left: 400px;
+    background-color:#f5f4f5 ;
+    margin-bottom: 20px;
+
+}
+
+.final{
+    margin-top: 70px;
+    margin-bottom: 50px;
+}
+
+.error-style{
+    color: red;
+    text-align: center;
+    font-style: normal;
+    padding-top: 10px;
+}

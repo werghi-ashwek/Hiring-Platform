@@ -1,0 +1,10 @@
+
+
+.dash2{
+    background-color: #f5f4f5;
+    min-height: 800px;
+    background-image: url("../../../../../../Assets/images/job-background.png") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 20px;
+}

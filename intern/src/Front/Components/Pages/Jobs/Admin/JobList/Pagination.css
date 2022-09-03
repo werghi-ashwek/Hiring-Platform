@@ -1,0 +1,29 @@
+.page-nav{
+    display: flex !important;
+    /*background-color: #9fceef !important;*/
+    justify-content: center !important; 
+    width:900px !important;
+    margin-left: 100px !important;
+    margin-top: 70px;
+    position: sticky;
+    top: 0;
+}
+
+.page-nav .pag-elt .page-number{
+
+    /*border: 1px solid black;*/
+    border-radius: 70%;
+    margin-right: 20px ;
+
+}
+
+.pag-elt{
+    list-style-type: none !important;
+    justify-content: center !important;
+    display: flex !important;
+}
+
+/*.page-number{
+    justify-content: center !important ;
+    padding-left: 20px !important;
+}*/

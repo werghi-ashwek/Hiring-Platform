@@ -1,0 +1,25 @@
+
+.jobanim{
+ /* background-color: whitesmoke;*/
+  min-height: 100vh;
+  background-color: #f5f4f5;
+  min-height: 800px;
+  background-image: url("../../../../Assets/images/job-edit.png") ;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+
+
+
+
+.jobstitle{
+  color:#091e3f ;
+  font-weight: bolder;
+  padding-top: 1%;
+  padding-bottom: 5%;
+  font-size: 50px;
+  text-align: center;
+
+}

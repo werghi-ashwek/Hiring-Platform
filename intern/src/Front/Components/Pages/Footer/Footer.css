@@ -1,0 +1,72 @@
+/* sx={{ position: "fixed", bottom: 0, left: 0, right: 0, color: "blue" }}*/
+.footer-paper {
+    position:static;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.bottom-navigation{
+    background-color:#091e3f !important;
+    height: 200px !important;
+    z-index: 1 !important;
+    bottom: 0;
+}
+
+.copyright{
+    color: white !important;
+    font-size: 16px;
+    margin-top: 50px;
+    margin-left: -40px;
+}
+
+
+.cog-logo-footer{
+    width: 200px;
+    margin-top: 20px;
+    padding-top: 40px;
+    margin-left: -30px;
+}
+
+.logo-right{
+    display: flex;
+    flex-direction: column;
+    margin-right: 50px;
+    padding-right: 30px;
+
+}
+
+
+.MuiBottomNavigationAction-label	{
+    color: white !important;
+}
+
+.about-footer{
+    color: white !important;
+    font-size: 16px;
+    margin-top: 50px;
+    padding-left: 60px;
+    text-align: center;
+    margin-right: 150px;
+
+}
+
+.parag-footer{
+    color: white !important;
+    font-size: 16px;
+    margin-top: 30px;
+    padding-left:60px;
+    padding-right: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.social-footer{
+    color: white !important;
+    font-size: 16px;
+    padding-left: 5px;
+    text-align: center;
+    margin-top: 30px;
+    margin-right: 10px;
+
+}

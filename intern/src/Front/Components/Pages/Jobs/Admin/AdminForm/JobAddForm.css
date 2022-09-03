@@ -1,0 +1,104 @@
+
+.job-add-root{
+    background-image:url("../../../../../../Assets/images/job-edit.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.add-form-title{
+    font-family: 'Lora', serif;
+    margin-top: 0px;
+    padding-top:30px;
+    margin-right: 40px;
+    font-size: 50px;
+    text-align: center;
+    text-transform: capitalize;
+    font-weight: bold;
+    letter-spacing: 1px;
+
+}
+.adminform{
+    text-align: center;
+    color:#091e3f;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.adminbutt{
+
+    background-color:#3e9ede ;
+    margin-top: 60px;
+   padding-right: 50px;
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.adminbutt:hover {
+    background-color: #9fceef;
+    color: #091e3f;
+
+}
+
+.form-add-job{
+    padding-top: 40px
+}
+
+.second-job{
+    border: 3px solid #9fceef;
+    border-radius: 13px;
+    width: 700px;
+    text-align: center;
+    height: 580px;
+    margin-left: 400px;
+    background-color:#f5f4f5 ;
+    margin-bottom: 20px;
+    /*margin-top: 10px;*/
+    margin-left: 400px;
+
+}
+
+
+
+.information{
+    text-align: left;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+
+.back-to-dash-add{
+
+    margin-left: 100px !important;
+    margin-bottom: 50px !important;
+    margin-top: 20px !important;
+    background-color:  #fda500  !important; 
+    color: white !important;
+    width: 160px;
+
+}
+
+.back-to-dash-add:hover{ 
+    background-color: #3e9ede !important;
+
+}
+
+.add-button-job{
+    margin-right: 50px !important;
+    margin-bottom: 50px !important;
+    margin-top: 20px !important;
+    background-color: #3e9ede !important; 
+
+}
+
+.add-button-job:hover{
+    background-color: #fda500 !important;
+}
+
+
+
+

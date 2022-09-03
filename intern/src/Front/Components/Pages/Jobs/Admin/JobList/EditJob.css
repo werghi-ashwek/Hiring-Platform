@@ -1,0 +1,68 @@
+.edit-root{
+    background-image:url("../../../../../../Assets/images/job-edit.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.edit-form-title{
+
+    font-family: 'Lora', serif;
+    margin-top: 0px;
+    padding-top:30px;
+    margin-bottom: 40px;
+    margin-right: 40px;
+    font-size: 50px;
+    text-align: center;
+    text-transform: capitalize;
+    font-weight: bold;
+    letter-spacing: 1px;
+
+}
+
+.edit-job{
+    border: 3px solid #9fceef;
+    border-radius: 13px;
+    width: 700px;
+    text-align: center;
+    height: 570px;
+    margin-left: 400px;
+    background-color:#f5f4f5 ;
+    margin-bottom: 20px;
+
+}
+
+.title-information{
+    text-align: left;
+    padding-top: 10px;
+}
+
+
+.save-edit-job{
+    margin-right: 50px !important;
+    margin-bottom: 50px !important;
+    margin-top: 20px !important;
+    background-color: #3e9ede !important; 
+
+}
+
+.save-edit-job:hover{
+    background-color: #fda500 !important;
+}
+
+
+.back-to-dash{
+
+    margin-left: 100px !important;
+    margin-bottom: 50px !important;
+    margin-top: 20px !important;
+    background-color:  #fda500  !important; 
+    color: white !important;
+    width: 150px;
+
+}
+
+.back-to-dash:hover{ 
+    background-color: #3e9ede !important;
+
+}
